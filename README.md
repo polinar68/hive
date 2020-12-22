@@ -56,7 +56,7 @@ General Info
 
 For the latest information about Hive, please visit out website at:
 
-  [http://](hive.apache.org/polinar68)
+  https://polinar68.github.io/hive/
 
 
 Getting Started
